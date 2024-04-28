@@ -1,6 +1,5 @@
 # Atividades | Desafios em C++
 
-
 #### Histórico do Browser -> historic.cpp
 
 Ao  navegar  na  internet,  a  cada  site  acessado,  o  endereço  é armazenado em uma pilha. Ao clicar em voltar, pode-se acessar novamente o endereço anteriormente visitado.
