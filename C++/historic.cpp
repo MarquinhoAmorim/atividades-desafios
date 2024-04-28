@@ -1,10 +1,3 @@
-/*
- * Segunda lista
- *
- * Prof. Me. Orlando Saraiva Jr
- * Aplicado em : 13/04/2023
- */
-
 #include <iostream>
 #include <ctime>
 
